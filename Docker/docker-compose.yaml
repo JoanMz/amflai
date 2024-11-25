@@ -1,0 +1,13 @@
+services:
+  valkey_engine:
+    container_name: valkey_engine_emeral
+    image: valkey/valkey:8.0.1
+    volumes:
+      - valkey:/usr/local/etc/valkey
+    ports:
+      - "6379:6379"
+    restart: always
+
+volumes:
+  valkey:
+
