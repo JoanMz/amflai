@@ -8,8 +8,9 @@ Simplifica la experiencia de compra de vuelos para usuarios latinoamericanos.
 
 ## MIRA EL VIDEO DE LO QUE HACEMOS
 - https://www.loom.com/share/13a35675bad84322bdd410d8d6caf7a0?sid=36bd306a-0986-47a9-8424-bf96873ef34a
-- Solución Innovadora para Agencias de Viajes 🛫 - Watch Video
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/13a35675bad84322bdd410d8d6caf7a0?sid=8a13ffa9-0415-44cf-a9d2-5164691cc5d8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- Asesor De Ventas y Toools para Agencias de Viajes 🛫 - Watch Video
+[Ver video en Loom](https://www.loom.com/embed/13a35675bad84322bdd410d8d6caf7a0?sid=8a13ffa9-0415-44cf-a9d2-5164691cc5d8)
+
 
 
 ## 🚀 Características
